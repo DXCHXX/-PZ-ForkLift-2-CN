@@ -1,0 +1,12 @@
+IG_UI_CN = {
+	IGUI_VehiclePartCatzoddprotection = "保护",
+	IGUI_VehicleNameForkLift_1 = "超级公牛",
+	IGUI_VehiclePartForkLift_PropaneTank = "丙烷罐",
+	IGUI_VehiclePartForkLift_PalletHigh = "上部木托盘",
+	IGUI_VehiclePartForkLift_WaterTankHigh = "上部水箱",
+	IGUI_VehiclePartForkLift_FuelDrumsHigh = "上部燃油桶",
+	IGUI_VehiclePartForkLift_Generator = "发电机",
+	IGUI_VehiclePartForkLift_PalletLow = "下部木托盘",
+	IGUI_VehiclePartForkLift_WaterTankLow = "下部水箱",
+	IGUI_VehiclePartForkLift_FuelDrumsLow = "下部燃油桶",
+}
